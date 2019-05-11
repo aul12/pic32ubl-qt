@@ -1,7 +1,7 @@
 # pic32ubl-qt
 Port of the PIC32-Bootloader-Application for Linux and MacOs.
 
-This is fork of pic32ubl-qt (https://code.google.com/archive/p/pic32ubl-qt/), which is not under development anymore.
+This is fork of pic32ubl-qt ([https://code.google.com/archive/p/pic32ubl-qt/](https://code.google.com/archive/p/pic32ubl-qt/)), which is not under development anymore.
 This version incorporates small fixes for QT5 and better documentation.
 
 ## How to install the program.
